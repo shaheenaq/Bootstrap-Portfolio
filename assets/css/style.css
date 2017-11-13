@@ -1,5 +1,5 @@
 body{
-	background: #efeee7;
+	background-image: url("texturetastic_gray.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 header { background: white; }
@@ -118,6 +118,12 @@ form {
 	margin-top: 8px;
 }
 
+.linkgroup {
+	padding-bottom: 10px;
+	padding-left: 8px;
+	padding-right: 8px;		
+}
+
 .thirdlink {
 	padding-left: 0px;
 }
@@ -130,4 +136,7 @@ form {
 .navbar {
 	border-top: 8px solid #4aaaa5;
 	background: gray;
+	padding-top: 15px;
 }
+
+
